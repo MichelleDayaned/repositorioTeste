@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-Print ("Olá mundo tudo bom?")
-=======
->>>>>>> parent of 04521d6 (mudei para Hello Mundo)
